@@ -18,4 +18,8 @@ def save(request):
 def jishnu(request)
     return render(request,'emil.html')
 
+def maria(request)
+    return render(request,'maria.html')
+
+
 
