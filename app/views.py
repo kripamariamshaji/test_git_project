@@ -15,4 +15,7 @@ def save(request):
     member.save()
     return render(request, 'form.html')
 
+def jishnu(request)
+    return render(request,'emil.html')
+
 
