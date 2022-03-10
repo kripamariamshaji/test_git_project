@@ -25,4 +25,7 @@ def maria(request):
     return render(request,'maria.html')
 
 
+def althaf(request):
+    return render(request,'althaf.html')
+
 
